@@ -154,4 +154,4 @@ The program shows a clear message instead of crashing when:
 **Sally Miriro Muchaziwepi**
 BSc Computer Science student
 
-*Created as part of an internship project.*
+*Created as part of an internship project, by invexom*
