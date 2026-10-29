@@ -1,0 +1,13 @@
+{
+  "books": [
+    {
+      "book_id": "B001",
+      "title": "Sally's book",
+      "author": "Sally",
+      "total_copies": 50,
+      "available_copies": 50
+    }
+  ],
+  "members": [],
+  "records": []
+}
